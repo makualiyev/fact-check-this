@@ -28,4 +28,5 @@ lecturing on the origins of Christianity.
 | Item | Result | Said by | Checked |
 |---|---|---|---|
 | [Paul, not Jesus, is the real founder of Christianity](../claims/paul-invented-christianity.md) | <span class="badge badge--misleading">Misleading</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-21 |
+| [Paul was a spy, an agent of Rome or a double agent for the Jewish leadership](../claims/paul-was-a-roman-spy.md) | <span class="badge badge--unproven">Unproven</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-21 |
 <!-- /auto:claims -->

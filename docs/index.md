@@ -19,9 +19,9 @@ how likely I thought the claim was, so the [Calibration](calibration.md) page
 can show how often podcasts actually fool me.
 
 <!-- auto:stats -->
-**4 claims checked** · **3 predictions tracked**
+**8 claims checked** · **3 predictions tracked**
 
-<span class="badge badge--true">True</span> 1 <span class="badge badge--mostly-true">Mostly true</span> 1 <span class="badge badge--misleading">Misleading</span> 1 <span class="badge badge--false">False</span> 1
+<span class="badge badge--true">True</span> 1 <span class="badge badge--mostly-true">Mostly true</span> 1 <span class="badge badge--misleading">Misleading</span> 1 <span class="badge badge--false">False</span> 4 <span class="badge badge--unproven">Unproven</span> 1
 <!-- /auto:stats -->
 
 ## Latest checks
@@ -29,11 +29,11 @@ can show how often podcasts actually fool me.
 <!-- auto:latest -->
 | Checked | Item | Result |
 |---|---|---|
+| 2026-10-21 | [Paul had James the Just, the brother of Jesus, killed](claims/paul-had-james-killed.md) | <span class="badge badge--false">False</span> |
+| 2026-10-21 | [Paul was a spy, an agent of Rome or a double agent for the Jewish leadership](claims/paul-was-a-roman-spy.md) | <span class="badge badge--unproven">Unproven</span> |
+| 2026-10-21 | [Paul built Jesus' story on the Dionysus cult, and the Eucharist comes from eating Dionysus](claims/paul-copied-dionysus.md) | <span class="badge badge--false">False</span> |
+| 2026-10-21 | [Paul's Christianity spread with Rome's support and became the official religion around 300](claims/rome-backed-pauls-christianity.md) | <span class="badge badge--false">False</span> |
 | 2026-10-21 | [Paul, not Jesus, is the real founder of Christianity](claims/paul-invented-christianity.md) | <span class="badge badge--misleading">Misleading</span> |
-| 2026-10-21 | [We don't even know for sure that the prophet's name was Muhammad](claims/muhammad-real-name-unknown.md) | <span class="badge badge--false">False</span> |
-| 2026-10-21 | [Operation Paperclip brought ex-Nazis into the US, including NASA](claims/operation-paperclip-nazis-at-nasa.md) | <span class="badge badge--true">True</span> |
-| 2026-10-21 | [The Christian Bible is ~70% the Jewish Bible](claims/christian-bible-mostly-jewish-bible.md) | <span class="badge badge--mostly-true">Mostly true</span> |
-| 2026-10-21 | [The US will go to war with Iran](predictions/us-war-with-iran.md) | <span class="badge badge--correct">Came true</span> |
 <!-- /auto:latest -->
 
 ## Where to go

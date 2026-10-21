@@ -24,4 +24,8 @@ summary: From a Jewish movement around Jesus to a separate religion. What we kno
 | Item | Result | Said by | Checked |
 |---|---|---|---|
 | [Paul, not Jesus, is the real founder of Christianity](../claims/paul-invented-christianity.md) | <span class="badge badge--misleading">Misleading</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-21 |
+| [Paul's Christianity spread with Rome's support and became the official religion around 300](../claims/rome-backed-pauls-christianity.md) | <span class="badge badge--false">False</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-21 |
+| [Paul built Jesus' story on the Dionysus cult, and the Eucharist comes from eating Dionysus](../claims/paul-copied-dionysus.md) | <span class="badge badge--false">False</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-21 |
+| [Paul was a spy, an agent of Rome or a double agent for the Jewish leadership](../claims/paul-was-a-roman-spy.md) | <span class="badge badge--unproven">Unproven</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-21 |
+| [Paul had James the Just, the brother of Jesus, killed](../claims/paul-had-james-killed.md) | <span class="badge badge--false">False</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-21 |
 <!-- /auto:claims -->

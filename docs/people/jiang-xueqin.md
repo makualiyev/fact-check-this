@@ -35,19 +35,24 @@ Nostradamus." Those predictions are tracked in [Predictions](../predictions/inde
 ## Scorecard
 
 <!-- auto:scorecard -->
-**Claims checked:** 3 · **Predictions tracked:** 3
+**Claims checked:** 7 · **Predictions tracked:** 3
 
 | Verdict | Claims |
 |---|---|
 | <span class="badge badge--mostly-true">Mostly true</span> | 1 |
 | <span class="badge badge--misleading">Misleading</span> | 1 |
-| <span class="badge badge--false">False</span> | 1 |
+| <span class="badge badge--false">False</span> | 4 |
+| <span class="badge badge--unproven">Unproven</span> | 1 |
 
 | Item | Result | Checked |
 |---|---|---|
 | [The Christian Bible is ~70% the Jewish Bible](../claims/christian-bible-mostly-jewish-bible.md) | <span class="badge badge--mostly-true">Mostly true</span> | 2026-10-21 |
 | [We don't even know for sure that the prophet's name was Muhammad](../claims/muhammad-real-name-unknown.md) | <span class="badge badge--false">False</span> | 2026-10-21 |
 | [Paul, not Jesus, is the real founder of Christianity](../claims/paul-invented-christianity.md) | <span class="badge badge--misleading">Misleading</span> | 2026-10-21 |
+| [Paul's Christianity spread with Rome's support and became the official religion around 300](../claims/rome-backed-pauls-christianity.md) | <span class="badge badge--false">False</span> | 2026-10-21 |
+| [Paul built Jesus' story on the Dionysus cult, and the Eucharist comes from eating Dionysus](../claims/paul-copied-dionysus.md) | <span class="badge badge--false">False</span> | 2026-10-21 |
+| [Paul was a spy, an agent of Rome or a double agent for the Jewish leadership](../claims/paul-was-a-roman-spy.md) | <span class="badge badge--unproven">Unproven</span> | 2026-10-21 |
+| [Paul had James the Just, the brother of Jesus, killed](../claims/paul-had-james-killed.md) | <span class="badge badge--false">False</span> | 2026-10-21 |
 
 **Predictions** — Open: 1 · Came true: 2
 
