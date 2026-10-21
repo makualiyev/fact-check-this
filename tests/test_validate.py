@@ -24,7 +24,8 @@ def test_repository_docs_are_valid():
     ("prior: 80", "prior: 120", "prior: must be a whole number 0-100"),
     ("prior: 80", "prior: 0.8", "prior: must be a whole number 0-100"),
     ('timestamp: "12:30"', 'timestamp: "12m30"', "timestamp:"),
-    ("date_checked: 2026-01-02", "date_checked: soon", "is not a YYYY-MM-DD date"),
+    ("date_checked: 2026-01-02", "date_checked: soon", "should be YYYY-MM-DD or 'YYYY-MM-DD HH:MM'"),
+    ("date_checked: 2026-01-02", "date_checked: 2026-01-02 25:99", "should be YYYY-MM-DD or 'YYYY-MM-DD HH:MM'"),
     ("confidence: high", "confidence: total", "confidence:"),
     ("claim_type: fact\n", "", "missing front matter field 'claim_type'"),
     ("## Steelman\n", "## Steel man\n", "missing section '## Steelman'"),
@@ -88,3 +89,9 @@ def test_templates_match_schema(kind):
         assert f"## {heading}\n" in body
     for block in validate.BLOCKS[kind]:
         assert f"<!-- auto:{block} -->" in body
+
+
+@pytest.mark.parametrize("value", ["2026-01-02", "2026-01-02 08:30", "2026-01-02 08:30:15"])
+def test_date_checked_accepts_date_or_datetime(docs, value):
+    edit(docs / "claims/sky-is-green.md", "date_checked: 2026-01-02", f"date_checked: {value}")
+    assert errors_for(docs) == []

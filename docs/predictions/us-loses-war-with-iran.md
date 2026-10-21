@@ -9,7 +9,7 @@ resolve_by: 2029-01-20
 status: open
 prior: null
 thinking: [base-rates]
-date_checked: 2026-10-21
+date_checked: 2026-10-21 13:15
 ---
 
 # The US will lose its war with Iran

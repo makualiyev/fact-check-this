@@ -11,7 +11,7 @@ confidence: high
 prior: null
 topics: [early-christianity]
 thinking: [kernel-of-truth, consensus-vs-fringe, check-the-expertise]
-date_checked: 2026-10-21
+date_checked: 2026-10-21 13:15
 ---
 
 # Paul basically invented Christianity

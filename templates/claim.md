@@ -11,7 +11,7 @@ confidence: medium       # low | medium | high
 prior: null              # owner's 0-100 estimate BEFORE the verdict, or null
 topics: []
 thinking: []
-date_checked: YYYY-MM-DD
+date_checked: YYYY-MM-DD HH:MM   # UTC, e.g. `date -u +'%Y-%m-%d %H:%M'`; the time orders same-day checks
 ---
 
 # One-sentence claim, in neutral words

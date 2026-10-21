@@ -16,7 +16,8 @@ description: Review tracked predictions, score the ones whose resolve-by date ha
    it". Don't move the goalposts. If those criteria were unclear, say so in
    the page.
 3. Set `status` (correct / partly-correct / wrong / unresolvable) and
-   `resolved_on`, and update `date_checked`. Write the "Resolution" section:
+   `resolved_on`, and set `date_checked` to the current UTC time
+   (`date -u +'%Y-%m-%d %H:%M'`). Write the "Resolution" section:
    - what happened;
    - why it meets or misses the criteria;
    - **how impressive the call was**, considering base rates (was it

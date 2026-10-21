@@ -10,7 +10,7 @@ status: correct
 resolved_on: 2024-11-06
 prior: null
 thinking: [base-rates]
-date_checked: 2026-10-21
+date_checked: 2026-10-21 13:15
 ---
 
 # Trump will win the 2024 US presidential election

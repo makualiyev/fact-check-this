@@ -10,7 +10,7 @@ status: correct
 resolved_on: 2026-02-28
 prior: null
 thinking: [base-rates]
-date_checked: 2026-10-21
+date_checked: 2026-10-21 13:15
 ---
 
 # The US will go to war with Iran

@@ -11,7 +11,7 @@ confidence: high
 prior: null
 topics: [postwar-german-scientists]
 thinking: [credibility-transfer, secret-framing]
-date_checked: 2026-10-21
+date_checked: 2026-10-21 13:15
 ---
 
 # Operation Paperclip brought ex-Nazis into the US, including NASA

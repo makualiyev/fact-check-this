@@ -116,3 +116,33 @@ def test_table_cells_escape_pipes(docs):
     edit(docs / "claims/sky-is-green.md", "title: The sky is green", "title: Sky | green")
     build(docs)
     assert "Sky \\| green" in block(docs / "claims/index.md", "by-verdict")
+
+
+def test_latest_orders_same_day_checks_by_time(docs):
+    # Regression: with day-only dates, ties fell back to title order and a
+    # newer check whose title sorts last ("We don't...") dropped off the list.
+    edit(docs / "claims/water-is-wet.md", "date_checked: 2026-01-01", "date_checked: 2026-01-03 15:53")
+    edit(docs / "claims/sky-is-green.md", "date_checked: 2026-01-02", "date_checked: 2026-01-03 13:15")
+    edit(docs / "predictions/rain-tomorrow.md", "date_checked: 2026-01-03", "date_checked: 2026-01-03 13:15")
+    build(docs)
+    text = block(docs / "index.md", "latest")
+    assert text.index("water-is-wet") < text.index("rain-tomorrow") < text.index("sky-is-green")
+    assert "| 2026-01-03 |" in text and "15:53" not in text
+
+
+def test_latest_keeps_newest_when_list_is_full(docs):
+    for i in range(6):
+        (docs / f"claims/a-{i}.md").write_text(
+            (docs / "claims/sky-is-green.md").read_text()
+            .replace("title: The sky is green", f"title: A{i}")
+            .replace("date_checked: 2026-01-02", "date_checked: 2026-01-05 09:00"))
+    edit(docs / "claims/water-is-wet.md", "date_checked: 2026-01-01", "date_checked: 2026-01-05 10:00")
+    build(docs)
+    assert "water-is-wet" in block(docs / "index.md", "latest")  # title sorts last, but it's newest
+
+
+def test_card_shows_day_only(docs):
+    edit(docs / "claims/sky-is-green.md", "date_checked: 2026-01-02", "date_checked: 2026-01-02 08:30")
+    build(docs)
+    card = block(docs / "claims/sky-is-green.md", "card")
+    assert "**Checked:** 2026-01-02 ·" in card and "08:30" not in card

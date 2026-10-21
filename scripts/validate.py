@@ -92,7 +92,10 @@ def check_page(page: kb.Page, refs: dict, docs: Path) -> list[str]:
         ref("speaker", "person", m.get("speaker"))
         ref("source", "source", m.get("source"))
         prior()
-        date("date_checked")
+        try:
+            kb.checked_at(m.get("date_checked"))
+        except ValueError:
+            err(f"date_checked: {m['date_checked']!r} should be YYYY-MM-DD or 'YYYY-MM-DD HH:MM' (UTC)")
         src = refs.get(("source", m.get("source")))
         known_speaker = ("person", m.get("speaker")) in refs
         if src and known_speaker and m.get("speaker") not in (src.meta.get("speakers") or []):

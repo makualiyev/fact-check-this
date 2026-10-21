@@ -11,7 +11,7 @@ confidence: high
 prior: 70
 topics: [early-islam]
 thinking: [thin-record-not-blank, consensus-vs-fringe, kernel-of-truth]
-date_checked: 2026-10-21
+date_checked: 2026-10-21 15:53
 ---
 
 # We don't even know for sure that the prophet's name was Muhammad

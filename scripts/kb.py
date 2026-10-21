@@ -131,6 +131,24 @@ def as_date(value) -> dt.date | None:
     return dt.date.fromisoformat(str(value))
 
 
+def checked_at(value) -> dt.datetime | None:
+    """`date_checked` as a datetime. It is either a plain date or
+    "YYYY-MM-DD HH:MM" (UTC); the time only orders checks made the same day."""
+    if value is None:
+        return None
+    if isinstance(value, dt.datetime):
+        return value
+    if isinstance(value, dt.date):
+        return dt.datetime.combine(value, dt.time())
+    return dt.datetime.fromisoformat(str(value))
+
+
+def day(value) -> str:
+    """The date part of `date_checked`, for display."""
+    c = checked_at(value)
+    return c.date().isoformat() if c else "—"
+
+
 def rel(from_file: Path, to_file: Path) -> str:
     """Relative markdown link from one docs file to another."""
     return os.path.relpath(to_file, from_file.parent).replace(os.sep, "/")

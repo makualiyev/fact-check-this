@@ -78,6 +78,9 @@ Watch out for these:
 - **`prior`** is the owner's own estimate (0–100, how likely true or likely
   to happen), recorded **before** they see the verdict. Use `null` if not
   recorded. Never fill it in afterwards or guess it.
+- **`date_checked`** is `YYYY-MM-DD HH:MM` in UTC (`date -u +'%Y-%m-%d %H:%M'`).
+  Pages show only the date. The time keeps several checks made on the same
+  day in the right order in "Latest checks". A plain date is still valid.
 - **A claim's `speaker`** must be listed in its source's `speakers`.
 - **Required body sections:**
   - claims: `What was said`, `Steelman`, `Short answer`, `The full picture`,

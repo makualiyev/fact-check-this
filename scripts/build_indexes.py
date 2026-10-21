@@ -35,8 +35,13 @@ def result(p: kb.Page) -> str:
     return badge("verdict", p.meta.get("verdict"))
 
 
+def _checked(p: kb.Page) -> str:
+    c = kb.checked_at(p.meta.get("date_checked"))
+    return c.isoformat() if c else ""
+
+
 def _date_key(p: kb.Page):
-    return (str(p.meta.get("date_checked") or ""), p.title)
+    return (_checked(p), p.title)
 
 
 def _ts_key(p: kb.Page):
@@ -80,7 +85,7 @@ class Builder:
             "",
             f"**Claim type:** {kb.CLAIM_TYPES.get(m.get('claim_type'), m.get('claim_type'))}"
             f" · **Confidence in this verdict:** {m.get('confidence')}"
-            f" · **Checked:** {m.get('date_checked')}"
+            f" · **Checked:** {kb.day(m.get('date_checked'))}"
             f" · **My prior:** {kb.prior_label(m.get('prior'))}",
             "</div>",
         ])
@@ -115,7 +120,7 @@ class Builder:
             row = f"| {link(here, c)} | {result(c)} |"
             if with_speaker:
                 row += f" {self.ref_link(here, 'person', c.meta.get('speaker'))} |"
-            rows.append(row + f" {c.meta.get('date_checked')} |")
+            rows.append(row + f" {kb.day(c.meta.get('date_checked'))} |")
         return "\n".join(rows)
 
     def predictions_table(self, here: Path, preds: list[kb.Page]) -> str:
@@ -200,12 +205,12 @@ class Builder:
 
     def latest(self, here: Path, n: int = 5) -> str:
         items = sorted(self.claims + self.predictions, key=lambda p: p.title)
-        items = sorted(items, key=lambda p: str(p.meta.get("date_checked") or ""), reverse=True)[:n]
+        items = sorted(items, key=_checked, reverse=True)[:n]
         if not items:
             return NOTHING
         rows = ["| Checked | Item | Result |", "|---|---|---|"]
         for p in items:
-            rows.append(f"| {p.meta.get('date_checked')} | {link(here, p)} | {result(p)} |")
+            rows.append(f"| {kb.day(p.meta.get('date_checked'))} | {link(here, p)} | {result(p)} |")
         return "\n".join(rows)
 
     def calibration(self, here: Path) -> str:

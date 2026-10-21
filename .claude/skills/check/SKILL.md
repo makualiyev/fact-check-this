@@ -65,6 +65,7 @@ section, keep the `<!-- auto:card -->` block empty, and choose:
 - `verdict`: true / mostly-true / mixed / misleading / false / unproven / contested
 - `confidence`: low / medium / high
 - `topics`, `thinking`: existing slugs. Add a new `docs/thinking/` page only for a genuinely new habit.
+- `date_checked`: the current UTC time, from `date -u +'%Y-%m-%d %H:%M'`.
 
 ## 6. Predictions instead
 

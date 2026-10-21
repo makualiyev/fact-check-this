@@ -11,7 +11,7 @@ confidence: high
 prior: null
 topics: [bible-canon]
 thinking: [what-is-the-denominator, secret-framing]
-date_checked: 2026-10-21
+date_checked: 2026-10-21 13:15
 ---
 
 # The Christian Bible is ~70% the Jewish Bible

@@ -10,7 +10,7 @@ status: open             # open | correct | partly-correct | wrong | unresolvabl
 # resolved_on: YYYY-MM-DD   (add once resolved)
 prior: null              # owner's 0-100 estimate that it will happen, or null
 thinking: [base-rates]
-date_checked: YYYY-MM-DD
+date_checked: YYYY-MM-DD HH:MM   # UTC, e.g. `date -u +'%Y-%m-%d %H:%M'`; the time orders same-day checks
 ---
 
 # The thing that will (supposedly) happen

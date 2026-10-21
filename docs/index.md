@@ -29,11 +29,11 @@ can show how often podcasts actually fool me.
 <!-- auto:latest -->
 | Checked | Item | Result |
 |---|---|---|
+| 2026-10-21 | [We don't even know for sure that the prophet's name was Muhammad](claims/muhammad-real-name-unknown.md) | <span class="badge badge--false">False</span> |
 | 2026-10-21 | [Operation Paperclip brought ex-Nazis into the US, including NASA](claims/operation-paperclip-nazis-at-nasa.md) | <span class="badge badge--true">True</span> |
 | 2026-10-21 | [Paul basically invented Christianity](claims/paul-invented-christianity.md) | <span class="badge badge--misleading">Misleading</span> |
 | 2026-10-21 | [The Christian Bible is ~70% the Jewish Bible](claims/christian-bible-mostly-jewish-bible.md) | <span class="badge badge--mostly-true">Mostly true</span> |
 | 2026-10-21 | [The US will go to war with Iran](predictions/us-war-with-iran.md) | <span class="badge badge--correct">Came true</span> |
-| 2026-10-21 | [The US will lose its war with Iran](predictions/us-loses-war-with-iran.md) | <span class="badge badge--open">Open</span> |
 <!-- /auto:latest -->
 
 ## Where to go
