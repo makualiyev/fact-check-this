@@ -1,9 +1,9 @@
 ---
 type: claim
-title: Paul basically invented Christianity
-summary: Paul was Christianity's most influential early shaper, but he joined a movement that already existed and already worshipped Jesus. "Invented" goes too far.
+title: Paul, not Jesus, is the real founder of Christianity
+summary: Paul was Christianity's most influential early shaper, but he joined a movement that already existed and already worshipped Jesus. And no, scholars don't "agree" he founded it; that's a minority view.
 speaker: jiang-xueqin
-source: predictive-history-secret-history
+source: predictive-history-secret-history-23
 timestamp: null
 claim_type: interpretation
 verdict: misleading
@@ -11,18 +11,18 @@ confidence: high
 prior: null
 topics: [early-christianity]
 thinking: [kernel-of-truth, consensus-vs-fringe, check-the-expertise]
-date_checked: 2026-10-21 13:15
+date_checked: 2026-10-21 20:09
 ---
 
-# Paul basically invented Christianity
+# Paul, not Jesus, is the real founder of Christianity
 
 <!-- auto:card -->
 <div class="verdict-card verdict-card--misleading" markdown>
 <span class="verdict-card__label">Misleading</span>
 
-**Paul was Christianity's most influential early shaper, but he joined a movement that already existed and already worshipped Jesus. "Invented" goes too far.**
+**Paul was Christianity's most influential early shaper, but he joined a movement that already existed and already worshipped Jesus. And no, scholars don't "agree" he founded it; that's a minority view.**
 
-**Said by** [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) **in** [Predictive History: Secret History](../sources/predictive-history-secret-history.md)
+**Said by** [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) **in** [Predictive History: Secret History #23, The Organization of Evil](../sources/predictive-history-secret-history-23.md)
 
 **Claim type:** Interpretation · **Confidence in this verdict:** high · **Checked:** 2026-10-21 · **My prior:** not recorded
 </div>
@@ -30,11 +30,38 @@ date_checked: 2026-10-21 13:15
 
 ## What was said
 
-In the *Secret History* lectures, Jiang presents the apostle Paul as the
-person who popularized, and basically invented, Christianity.
+From the transcript of
+[*Secret History #23: The Organization of Evil*](../sources/predictive-history-secret-history-23.md)
+(no timestamps available):
 
-*Wording reconstructed from memory. The episode and timestamp haven't been
-located yet, so this checks the claim as remembered, not his full argument.*
+> "The Catholic Church is a prison in order to control that divine spark…
+> And the main architect of the Catholic Church, his name is Paul. Okay? **And
+> most people agree that Paul and not Jesus is the real founder of
+> Christianity.**"
+
+> "…if you read the New Testament, **a third is either written by Paul or
+> about Paul.** Okay, **there's more about Paul in the New Testament than
+> there's about Jesus.** That's why we say that Paul is a true founder of
+> Christianity. Christianity is a religion about Jesus, but not by Jesus.
+> It's by Paul."
+
+> "**Scholars agree that Paul is the founder of Christianity.** But there are
+> three mysteries to Paul that scholars can't really answer…"
+
+> "…if you read Paul's letters… he doesn't really talk about Jesus that
+> much. **He doesn't even quote Jesus.**"
+
+!!! info "Memory vs. transcript"
+    This page was first written from memory as "Paul popularized and
+    basically invented Christianity." The transcript shows a **stronger**
+    claim: that Paul, *not Jesus*, founded it, and that scholars agree. This
+    is the opposite of the Muhammad check, where memory had made the claim
+    stronger than what was said. Memory drifts in both directions.
+
+The same lecture makes several other claims about Paul (that he was a Roman
+spy, that he had James the brother of Jesus killed, that he modelled the
+Eucharist on the Dionysus cult, and that Rome backed his church). Those
+deserve their own checks.
 
 ## Steelman
 
@@ -43,7 +70,8 @@ letters. Paul is the one who took a small Jewish movement to non-Jews,
 decided they didn't have to follow Jewish law, and worked out the theology
 of salvation through faith in Christ's death and resurrection. Without him
 Christianity might have stayed a small Jewish sect. Respected scholars have
-called him Christianity's "second founder."
+called him Christianity's "second founder." And in a sense Jesus didn't
+"found a religion": he was a Jewish preacher speaking to fellow Jews.
 
 ## Short answer
 
@@ -55,7 +83,23 @@ control. What he shaped enormously was *where* the movement went and *how*
 its beliefs were explained. The strongest modern scholarship actually makes
 Paul *more* Jewish, not the founder of a new religion.
 
+Jiang's supporting points don't hold up either:
+
+- **"Scholars agree" is false.** "Paul founded it" is a minority view.
+- **"More about Paul than Jesus" is false.** By word count the Gospels are nearly half the New Testament.
+- **"He doesn't even quote Jesus" is overstated.** Paul quotes Jesus rarely, but he does.
+
 ## The full picture
+
+### His supporting points, checked
+
+| He says | Check |
+|---|---|
+| "Most people agree" / "scholars agree" Paul, not Jesus, is the founder | **False.** That is the Nietzsche/Maccoby minority position (below). The mainstream view is that Paul is the most important early *shaper*: Wrede's "second founder" at most. |
+| "A third [of the New Testament] is either written by Paul or about Paul" | **True.** I counted the Greek text (SBL edition): the 13 letters under Paul's name are 23.4%, and Acts 13–28 (Paul's journeys) another 7.5%, for a total of 31.0%. |
+| "There's more about Paul in the New Testament than there's about Jesus" | **False.** The four Gospels alone are 47.0% of the New Testament, and Paul's letters are themselves almost entirely about Jesus (his death, resurrection and return). |
+| "He doesn't even quote Jesus" | **Overstated.** He rarely quotes Jesus' sayings, which scholars do find striking. But he does cite "the Lord" on divorce (1 Corinthians 7:10–11), on paying missionaries (9:14) and at the Last Supper (11:23–25), and a "word of the Lord" in 1 Thessalonians 4:15. |
+| What Jesus taught and what Paul taught "are opposite" | **Depends on which Jesus.** Jiang's Jesus teaches a "divine spark" within you and self-liberation. That language comes from 2nd-century Gnostic Christianity, not from the Gospels. Measured against the Gospels' Jesus (who preaches repentance, the coming kingdom of God, and his own death "as a ransom for many", Mark 10:45), the gap with Paul is much smaller. |
 
 ### The timeline leaves little room for invention
 
@@ -126,22 +170,28 @@ minority position.
 - Thomas Jefferson to William Short, 13 April 1820, [Founders Online (National Archives)](https://founders.archives.gov/documents/Jefferson/03-15-02-0505).
 - Friedrich Nietzsche, *The Antichrist* §42 ([text](https://monadnock.net/nietzsche/antichrist-42.html)).
 - Hyam Maccoby, *The Mythmaker: Paul and the Invention of Christianity* (1986). David Wenham, *Paul: Follower of Jesus or Founder of Christianity?* (Eerdmans, 1995).
-- Bible verses: Galatians 1:13–19 and 2:1–14, 1 Corinthians 15:3–7, 11:23–25 and 16:22, Romans 16:7, Philippians 2:6–11.
+- Bible verses: Galatians 1:13–19 and 2:1–14, 1 Corinthians 7:10–11, 9:14, 11:23–25, 15:3–7 and 16:22, 1 Thessalonians 4:15, Romans 16:7, Philippians 2:6–11, Mark 10:45.
+- Word counts: my own count of the [SBL Greek New Testament](https://github.com/LogosBible/SBLGNT) (137,741 words). Gospels 64,686; the 13 letters under Paul's name 32,300; Acts 13–28 10,389. Other editions differ by under 1%.
 
 !!! note "How these sources were checked"
-    Located via web search on 2026-10-21. The research environment couldn't
-    open pages directly, so details were confirmed from search results, not
-    full reads. Bible verses are quoted from the NRSV from memory. Compare
-    with any translation.
+    Jiang's words come from the transcript of *Secret History #23* that the
+    owner provided on 2026-10-21. The word counts were computed directly
+    from the SBL Greek text, downloaded the same day. Other sources were
+    located via web search. The research environment couldn't open those
+    pages directly, so details were confirmed from search results, not full
+    reads. Bible verses are quoted from the NRSV from memory. Compare with
+    any translation.
 
 ## Thinking lesson
 
-**Find the kernel of truth, then measure how far the claim stretches it.**
+**Find the kernel of truth, then measure how far the claim stretches it,
+and check every "scholars agree."**
 Paul really was enormously important. That's what makes "Paul invented
 Christianity" feel right. Strong claims usually grow from a true kernel,
 and the useful question is how much the claim adds on top of it. Also
 notice the source: an education lecturer restating a 19th-century
 provocation (Nietzsche) and a 1980s minority thesis (Maccoby) as if they
-were established history. See [Kernel of truth](../thinking/kernel-of-truth.md),
+were established history. Twice he says "scholars agree." When a speaker
+claims a consensus, that is itself a factual claim you can check. See [Kernel of truth](../thinking/kernel-of-truth.md),
 [Consensus vs. fringe](../thinking/consensus-vs-fringe.md), and
 [Check the expertise](../thinking/check-the-expertise.md).

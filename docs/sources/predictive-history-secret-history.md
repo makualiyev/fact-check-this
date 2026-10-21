@@ -42,6 +42,5 @@ Some episodes, for finding timestamps:
 <!-- auto:claims -->
 | At | Claim | Verdict | Said by |
 |---|---|---|---|
-| — | [Paul basically invented Christianity](../claims/paul-invented-christianity.md) | <span class="badge badge--misleading">Misleading</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) |
 | — | [The Christian Bible is ~70% the Jewish Bible](../claims/christian-bible-mostly-jewish-bible.md) | <span class="badge badge--mostly-true">Mostly true</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) |
 <!-- /auto:claims -->

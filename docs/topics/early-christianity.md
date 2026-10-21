@@ -23,5 +23,5 @@ summary: From a Jewish movement around Jesus to a separate religion. What we kno
 <!-- auto:claims -->
 | Item | Result | Said by | Checked |
 |---|---|---|---|
-| [Paul basically invented Christianity](../claims/paul-invented-christianity.md) | <span class="badge badge--misleading">Misleading</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-21 |
+| [Paul, not Jesus, is the real founder of Christianity](../claims/paul-invented-christianity.md) | <span class="badge badge--misleading">Misleading</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-21 |
 <!-- /auto:claims -->

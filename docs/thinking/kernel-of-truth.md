@@ -29,6 +29,6 @@ Christianity" (stretch). See [the check](../claims/paul-invented-christianity.md
 <!-- auto:claims -->
 | Item | Result | Said by | Checked |
 |---|---|---|---|
-| [Paul basically invented Christianity](../claims/paul-invented-christianity.md) | <span class="badge badge--misleading">Misleading</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-21 |
 | [We don't even know for sure that the prophet's name was Muhammad](../claims/muhammad-real-name-unknown.md) | <span class="badge badge--false">False</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-21 |
+| [Paul, not Jesus, is the real founder of Christianity](../claims/paul-invented-christianity.md) | <span class="badge badge--misleading">Misleading</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-21 |
 <!-- /auto:claims -->
