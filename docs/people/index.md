@@ -1,0 +1,15 @@
+---
+title: People
+---
+
+# People
+
+Speakers whose claims are checked here. Each profile covers background and
+expertise, plus a scorecard generated from the verdicts. A scorecard shows
+only the claims that ended up here, and claims that surprised someone are
+more likely to be checked, so it is not a random sample.
+
+<!-- auto:list -->
+- [Alex Jones](alex-jones.md) — American conspiracy broadcaster, founder of InfoWars. Mixes real, documented history with claims that courts have ruled false and defamatory.
+- [Jiang Xueqin ("Professor Jiang")](jiang-xueqin.md) — Canadian educator in Beijing behind the Predictive History YouTube channel. Not a university professor; his degree is in English literature.
+<!-- /auto:list -->

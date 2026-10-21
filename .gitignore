@@ -1,0 +1,17 @@
+# MkDocs build output
+/site/
+
+# Downloaded transcripts (working material, not site content)
+/.cache/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

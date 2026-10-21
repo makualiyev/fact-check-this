@@ -1,0 +1,66 @@
+/* Verdict and prediction-status colours. One token per outcome, reused by
+   the inline badges and the verdict card at the top of each claim. */
+:root {
+  --fc-true: #2e7d32;
+  --fc-mostly-true: #558b2f;
+  --fc-mixed: #b58100;
+  --fc-misleading: #d84315;
+  --fc-false: #c62828;
+  --fc-unproven: #616161;
+  --fc-contested: #6a1b9a;
+  --fc-open: #1565c0;
+}
+
+[data-md-color-scheme="slate"] {
+  --fc-true: #66bb6a;
+  --fc-mostly-true: #9ccc65;
+  --fc-mixed: #ffca28;
+  --fc-misleading: #ff8a65;
+  --fc-false: #ef5350;
+  --fc-unproven: #bdbdbd;
+  --fc-contested: #ce93d8;
+  --fc-open: #64b5f6;
+}
+
+.badge--true,          .verdict-card--true          { --fc: var(--fc-true); }
+.badge--mostly-true,   .verdict-card--mostly-true   { --fc: var(--fc-mostly-true); }
+.badge--mixed,         .verdict-card--mixed         { --fc: var(--fc-mixed); }
+.badge--misleading,    .verdict-card--misleading    { --fc: var(--fc-misleading); }
+.badge--false,         .verdict-card--false         { --fc: var(--fc-false); }
+.badge--unproven,      .verdict-card--unproven      { --fc: var(--fc-unproven); }
+.badge--contested,     .verdict-card--contested     { --fc: var(--fc-contested); }
+.badge--open,          .verdict-card--open          { --fc: var(--fc-open); }
+.badge--correct,       .verdict-card--correct       { --fc: var(--fc-true); }
+.badge--partly-correct,.verdict-card--partly-correct{ --fc: var(--fc-mixed); }
+.badge--wrong,         .verdict-card--wrong         { --fc: var(--fc-false); }
+.badge--unresolvable,  .verdict-card--unresolvable  { --fc: var(--fc-unproven); }
+
+.badge {
+  display: inline-block;
+  padding: 0.05em 0.55em;
+  border: 1px solid var(--fc, currentColor);
+  border-radius: 1em;
+  color: var(--fc, inherit);
+  font-size: 0.85em;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.verdict-card {
+  margin: 1em 0 1.5em;
+  padding: 0.6em 1em;
+  border-left: 0.35em solid var(--fc, currentColor);
+  border-radius: 0.2em;
+  background: color-mix(in srgb, var(--fc, transparent) 9%, transparent);
+}
+
+.verdict-card p { margin: 0.4em 0; }
+
+.verdict-card__label {
+  display: block;
+  color: var(--fc, inherit);
+  font-size: 1.15em;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}

@@ -1,0 +1,13 @@
+nav:
+  - Home: index.md
+  - Claims: claims
+  - Predictions: predictions
+  - Sources: sources
+  - People: people
+  - Topics: topics
+  - Thinking toolkit: thinking
+  - calibration.md
+  - method.md
+
+sort:
+  by: title
