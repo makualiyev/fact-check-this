@@ -35,6 +35,33 @@ def test_parse_pasted_one_line_format():
     assert ft.parse_pasted("0:00 Hello\n34:10 Paul invented it\n") == [(0, "Hello"), (2050, "Paul invented it")]
 
 
+def test_parse_pasted_glued_label_format():
+    # YouTube's current "Show transcript" copy: label glued on, chapter headings.
+    text = (
+        "Chapter 1: The mystery of Muhammad\n"
+        "0:000 secondsokay good morning\n"
+        "1:021 minute, 2 secondseven though\n"
+        "3:013 minutes, 1 secondsaid the man\n"
+        "Chapter 2: Abrahamic family ties\n"
+        "17:0017 minutesto 1898\n"
+        "1:02:031 hour, 2 minutes, 3 secondsthe end\n"
+    )
+    assert ft.parse_pasted(text) == [
+        (0, "okay good morning"),
+        (62, "even though"),
+        (181, "said the man"),  # "1 second" + "said", not "1 seconds" + "aid"
+        (1020, "to 1898"),
+        (3723, "the end"),
+    ]
+
+
+def test_spoken():
+    assert ft.spoken(0) == "0 seconds"
+    assert ft.spoken(71) == "1 minute, 11 seconds"
+    assert ft.spoken(1020) == "17 minutes"
+    assert ft.spoken(3601) == "1 hour, 1 second"
+
+
 def test_grep_merges_overlapping_context():
     snippets = [(i, f"line {i}") for i in range(10)]
     snippets[3] = (3, "Paul here")

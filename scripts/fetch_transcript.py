@@ -25,6 +25,7 @@ CACHE = ROOT / ".cache" / "transcripts"
 
 ID_RE = re.compile(r"(?:v=|youtu\.be/|/shorts/|/embed/|/live/)([\w-]{11})")
 TS_RE = re.compile(r"^(\d{1,2}(?::\d{2}){1,2})\s*(.*)$")
+CHAPTER_RE = re.compile(r"^Chapter \d+:")
 
 
 def video_id(url_or_id: str) -> str:
@@ -49,17 +50,33 @@ def to_seconds(ts: str) -> int:
     return total
 
 
+def spoken(seconds: int) -> str:
+    """The accessibility label YouTube glues after a timestamp when copying,
+    e.g. 71 -> "1 minute, 11 seconds", 1020 -> "17 minutes"."""
+    h, m, s = seconds // 3600, seconds // 60 % 60, seconds % 60
+    parts = [f"{n} {unit}{'' if n == 1 else 's'}"
+             for n, unit in ((h, "hour"), (m, "minute"), (s, "second")) if n]
+    return ", ".join(parts) or "0 seconds"
+
+
 def parse_pasted(text: str) -> list[tuple[float, str]]:
-    """Parse YouTube's copied transcript: either "0:05 text" on one line, or a
-    timestamp line followed by its text line(s)."""
+    """Parse YouTube's copied transcript: "0:05 text" on one line, a timestamp
+    line followed by its text line(s), or the current format where the spoken
+    label is glued on ("1:111 minute, 11 secondstext"). Chapter headings
+    ("Chapter 2: ...") are dropped."""
     lines: list[tuple[float, str]] = []
     for raw in text.splitlines():
         line = raw.strip()
-        if not line:
+        if not line or CHAPTER_RE.match(line):
             continue
         m = TS_RE.match(line)
         if m:
-            lines.append((to_seconds(m.group(1)), m.group(2)))
+            start = to_seconds(m.group(1))
+            rest = m.group(2)
+            label = spoken(start)
+            if rest.startswith(label):
+                rest = rest[len(label):].lstrip()
+            lines.append((start, rest))
         elif lines:
             start, prev = lines[-1]
             lines[-1] = (start, f"{prev} {line}".strip())
