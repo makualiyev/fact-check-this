@@ -25,4 +25,10 @@ in [How this works](../method.md#the-verdict-scale).
 | Item | Result | Said by | Checked |
 |---|---|---|---|
 | [Paul basically invented Christianity](paul-invented-christianity.md) | <span class="badge badge--misleading">Misleading</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-21 |
+
+## False
+
+| Item | Result | Said by | Checked |
+|---|---|---|---|
+| [We don't even know for sure that the prophet's name was Muhammad](muhammad-real-name-unknown.md) | <span class="badge badge--false">False</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-21 |
 <!-- /auto:by-verdict -->

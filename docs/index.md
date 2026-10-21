@@ -19,9 +19,9 @@ how likely I thought the claim was, so the [Calibration](calibration.md) page
 can show how often podcasts actually fool me.
 
 <!-- auto:stats -->
-**3 claims checked** · **3 predictions tracked**
+**4 claims checked** · **3 predictions tracked**
 
-<span class="badge badge--true">True</span> 1 <span class="badge badge--mostly-true">Mostly true</span> 1 <span class="badge badge--misleading">Misleading</span> 1
+<span class="badge badge--true">True</span> 1 <span class="badge badge--mostly-true">Mostly true</span> 1 <span class="badge badge--misleading">Misleading</span> 1 <span class="badge badge--false">False</span> 1
 <!-- /auto:stats -->
 
 ## Latest checks

@@ -26,4 +26,5 @@ is a minority thesis (Maccoby, 1986). See
 | Item | Result | Said by | Checked |
 |---|---|---|---|
 | [Paul basically invented Christianity](../claims/paul-invented-christianity.md) | <span class="badge badge--misleading">Misleading</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-21 |
+| [We don't even know for sure that the prophet's name was Muhammad](../claims/muhammad-real-name-unknown.md) | <span class="badge badge--false">False</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-21 |
 <!-- /auto:claims -->

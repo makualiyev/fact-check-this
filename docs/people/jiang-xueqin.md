@@ -35,17 +35,19 @@ Nostradamus." Those predictions are tracked in [Predictions](../predictions/inde
 ## Scorecard
 
 <!-- auto:scorecard -->
-**Claims checked:** 2 · **Predictions tracked:** 3
+**Claims checked:** 3 · **Predictions tracked:** 3
 
 | Verdict | Claims |
 |---|---|
 | <span class="badge badge--mostly-true">Mostly true</span> | 1 |
 | <span class="badge badge--misleading">Misleading</span> | 1 |
+| <span class="badge badge--false">False</span> | 1 |
 
 | Item | Result | Checked |
 |---|---|---|
 | [Paul basically invented Christianity](../claims/paul-invented-christianity.md) | <span class="badge badge--misleading">Misleading</span> | 2026-10-21 |
 | [The Christian Bible is ~70% the Jewish Bible](../claims/christian-bible-mostly-jewish-bible.md) | <span class="badge badge--mostly-true">Mostly true</span> | 2026-10-21 |
+| [We don't even know for sure that the prophet's name was Muhammad](../claims/muhammad-real-name-unknown.md) | <span class="badge badge--false">False</span> | 2026-10-21 |
 
 **Predictions** — Open: 1 · Came true: 2
 
