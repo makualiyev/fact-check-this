@@ -64,3 +64,36 @@
   letter-spacing: 0.02em;
   text-transform: uppercase;
 }
+
+/* Logo. The header icon sits on a light disc so its slate bubble stays
+   visible against the blue-grey header; the home-page wordmark gets a light
+   panel in dark mode for the same reason. */
+.md-header__button.md-logo img {
+  background: #fff;
+  border-radius: 50%;
+  padding: 0.1rem;
+}
+
+.md-typeset .home-logo {
+  display: block;
+  width: 100%;
+  max-width: 30rem;
+  margin: 0 0 1.5rem;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .home-logo {
+  background: #f5f5f5;
+  border-radius: 0.4rem;
+  padding: 0.6rem 1rem;
+}
+
+/* The wordmark already says the site's name, so keep the heading for
+   screen readers and search but hide it visually. */
+.home-title {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}

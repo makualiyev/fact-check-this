@@ -4,7 +4,9 @@ hide:
   - navigation
 ---
 
-# Fact-check this
+# Fact-check this { .home-title }
+
+![Fact-check this](assets/logo.png){ .home-logo }
 
 Podcasts and YouTube lectures are full of claims that feel like revelations.
 Some of them are true, some are half-true, and some are wrong. You usually

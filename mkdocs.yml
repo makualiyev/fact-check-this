@@ -14,9 +14,10 @@ docs_dir: docs
 theme:
   name: material
   language: en
+  logo: assets/logo-icon.png
+  favicon: assets/favicon.png
   icon:
     repo: fontawesome/brands/github
-    logo: material/magnify-scan
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
