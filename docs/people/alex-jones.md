@@ -24,6 +24,7 @@ His record is an unusually clear example of
 - **Others are false, at great cost to real people.** For years he claimed the 2012 Sandy Hook school shooting, in which 20 children and 6 adults were killed, was staged. Families of the victims sued him for defamation.
     - In 2022, juries in Texas and Connecticut found him liable. The awards came to about $49 million in Texas and about $1.4 billion in Connecticut (with punitive damages).
     - During the 2022 Texas trial he testified that he now considered the shooting "100% real."
+    - Earlier, on [JRE #1255](../sources/jre-1255-alex-jones-returns.md) in February 2019, he told Rogan he believed it happened and blamed a "mild psychosis" of thinking everything was staged.
     - He filed for bankruptcy that year.
     - In 2018 he was banned from most major platforms.
 
@@ -33,15 +34,26 @@ makes has to be checked on its own.
 ## Scorecard
 
 <!-- auto:scorecard -->
-**Claims checked:** 1 · **Predictions tracked:** 0
+**Claims checked:** 9 · **Predictions tracked:** 0
 
 | Verdict | Claims |
 |---|---|
 | <span class="badge badge--true">True</span> | 1 |
+| <span class="badge badge--mostly-true">Mostly true</span> | 1 |
+| <span class="badge badge--misleading">Misleading</span> | 4 |
+| <span class="badge badge--false">False</span> | 3 |
 
 | Item | Result | Checked |
 |---|---|---|
 | [Operation Paperclip brought ex-Nazis into the US, including NASA](../claims/operation-paperclip-nazis-at-nasa.md) | <span class="badge badge--true">True</span> | 2026-10-21 |
+| [Bill Joy's Wired essay revealed billionaires agreeing to dumb down the public, including with 5G](../claims/bill-joy-wired-billionaire-plan.md) | <span class="badge badge--false">False</span> | 2026-10-22 |
+| [In the 1960s the US set off more than 100 hydrogen bombs in the upper atmosphere to see if it could ignite it](../claims/starfish-prime-ignite-atmosphere.md) | <span class="badge badge--misleading">Misleading</span> | 2026-10-22 |
+| [Apple handed China the keys to Chinese users' iCloud data, Google built a censored search engine for China, and China is testing its social-control tech in Venezuela](../claims/apple-google-china-venezuela.md) | <span class="badge badge--mostly-true">Mostly true</span> | 2026-10-22 |
+| [Operation Paperclip brought about 34,000 Nazis to the US, a figure released by the Church Committee](../claims/paperclip-34000-nazis.md) | <span class="badge badge--false">False</span> | 2026-10-22 |
+| [Virginia's governor admitted that babies are kept alive after birth and then killed, so their organs can be sold](../claims/northam-babies-kept-alive-for-organs.md) | <span class="badge badge--false">False</span> | 2026-10-22 |
+| [As a teenager George Soros helped the Nazis take Jews' property, and later called it the happiest time of his life](../claims/soros-helped-nazis.md) | <span class="badge badge--misleading">Misleading</span> | 2026-10-22 |
+| [The US government injected over a million people with live syphilis "in the name of vaccines," from 1947 to 1983](../claims/us-infected-million-with-syphilis.md) | <span class="badge badge--misleading">Misleading</span> | 2026-10-22 |
+| [Eisenhower's farewell address warned about a "technological elite" because he had rejected NASA's plan for a breakaway civilization](../claims/eisenhower-technological-elite-nasa.md) | <span class="badge badge--misleading">Misleading</span> | 2026-10-22 |
 <!-- /auto:scorecard -->
 
 ## Sources

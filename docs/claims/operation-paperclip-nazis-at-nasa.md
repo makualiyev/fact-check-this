@@ -4,7 +4,7 @@ title: Operation Paperclip brought ex-Nazis into the US, including NASA
 summary: True and well documented. NASA's own biographies say so. What isn't supported are the bigger stories often attached to it.
 speaker: alex-jones
 source: jre-1255-alex-jones-returns
-timestamp: null
+timestamp: "1:12:14"
 claim_type: conspiracy
 verdict: "true"
 confidence: high
@@ -22,7 +22,7 @@ date_checked: 2026-10-21 13:15
 
 **True and well documented. NASA's own biographies say so. What isn't supported are the bigger stories often attached to it.**
 
-**Said by** [Alex Jones](../people/alex-jones.md) **in** [The Joe Rogan Experience #1255: Alex Jones Returns!](../sources/jre-1255-alex-jones-returns.md)
+**Said by** [Alex Jones](../people/alex-jones.md) **in** [The Joe Rogan Experience #1255: Alex Jones Returns!](../sources/jre-1255-alex-jones-returns.md) at 1:12:14
 
 **Claim type:** Conspiracy · **Confidence in this verdict:** high · **Checked:** 2026-10-21 · **My prior:** not recorded
 </div>
@@ -30,13 +30,26 @@ date_checked: 2026-10-21 13:15
 
 ## What was said
 
-On *The Joe Rogan Experience*, Alex Jones talks about Operation Paperclip:
-after World War II the US secretly brought in Nazi scientists, and some of
-them went on to help build NASA.
+From a machine transcript of
+[the episode](../sources/jre-1255-alex-jones-returns.md), made from audio
+the owner provided:
 
-*Wording reconstructed from memory. Episode recaps place this in
-[#1255](../sources/jre-1255-alex-jones-returns.md). The exact words and
-timestamp haven't been checked.*
+> **Jones (1:12:14):** "…the Nazis got evil down so much that, like, we
+> brought 34,000 in to run NASA, to run the universities. Everybody wanted
+> Nazis…"
+>
+> **Rogan:** "Well, Wernher von Braun, absolutely…"
+
+He returns to it later (2:16:06), saying his grandfather told him "our
+government brought in thousands of those" Nazis, and (2:18:46): "Isn't it
+weird that the one man who directed all six Moon missions was a Nazi, and
+he was brought in?"
+
+This page checks the core claim: that the US brought in ex-Nazis and some
+helped build NASA. Jones's **34,000** figure is checked separately:
+[Operation Paperclip brought about 34,000 Nazis](paperclip-34000-nazis.md)
+(it didn't). An earlier version of this page paraphrased Jones from
+memory. The quotes above replaced that paraphrase on 2026-10-22.
 
 ## Steelman
 
@@ -114,7 +127,9 @@ for much bigger claims:
 !!! note "How these sources were checked"
     Located via web search on 2026-10-21. The research environment couldn't
     open pages directly, so details were confirmed from search results, not
-    full reads. Dates of individual promotions and renamings vary slightly
+    full reads. Jones's words were added on 2026-10-22 from a machine
+    transcript of the owner-provided episode audio; speaker labels are
+    inferred. Dates of individual promotions and renamings vary slightly
     between sources.
 
 ## Thinking lesson

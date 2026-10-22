@@ -24,4 +24,5 @@ the US in 1984.
 | Item | Result | Said by | Checked |
 |---|---|---|---|
 | [Operation Paperclip brought ex-Nazis into the US, including NASA](../claims/operation-paperclip-nazis-at-nasa.md) | <span class="badge badge--true">True</span> | [Alex Jones](../people/alex-jones.md) | 2026-10-21 |
+| [Operation Paperclip brought about 34,000 Nazis to the US, a figure released by the Church Committee](../claims/paperclip-34000-nazis.md) | <span class="badge badge--false">False</span> | [Alex Jones](../people/alex-jones.md) | 2026-10-22 |
 <!-- /auto:claims -->

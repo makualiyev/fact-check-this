@@ -17,6 +17,7 @@ links back to the claims where it mattered.
 - [Credibility transfer](credibility-transfer.md) — A speaker who is right about one surprising thing borrows credibility for the next. Judge each claim on its own.
 - [Kernel of truth](kernel-of-truth.md) — Most misleading claims grow from something real. Find the kernel, then measure how far the claim stretches it.
 - [Parallels aren't proof](parallels-arent-proof.md) — "X looks like Y, so X copied Y" needs accurate, early, specific parallels and a sign of contact. Otherwise it's pattern-matching.
+- [Read the whole quote](read-the-whole-quote.md) — A real quote, cut from what surrounds it, can be made to say almost anything. Find the original and read the paragraph around it before deciding what it means.
 - [Secret framing](secret-framing.md) — "Hidden history" packaging makes ordinary textbook facts feel like revelations, and lends that glow to whatever follows.
 - [Start with the earliest source](earliest-source-first.md) — Before accepting a new story about the past, find the oldest account. A late source, or a modern guess, has to explain why it knows better.
 - [Theories that can't lose](theories-that-cant-lose.md) — If every possible piece of evidence confirms a theory, it isn't explaining anything. Also check whether the "mysteries" it solves are really open.

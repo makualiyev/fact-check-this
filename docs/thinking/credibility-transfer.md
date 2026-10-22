@@ -31,4 +31,6 @@ was staged ([Alex Jones](../people/alex-jones.md)).
 | Item | Result | Said by | Checked |
 |---|---|---|---|
 | [Operation Paperclip brought ex-Nazis into the US, including NASA](../claims/operation-paperclip-nazis-at-nasa.md) | <span class="badge badge--true">True</span> | [Alex Jones](../people/alex-jones.md) | 2026-10-21 |
+| [Apple handed China the keys to Chinese users' iCloud data, Google built a censored search engine for China, and China is testing its social-control tech in Venezuela](../claims/apple-google-china-venezuela.md) | <span class="badge badge--mostly-true">Mostly true</span> | [Alex Jones](../people/alex-jones.md) | 2026-10-22 |
+| [Operation Paperclip brought about 34,000 Nazis to the US, a figure released by the Church Committee](../claims/paperclip-34000-nazis.md) | <span class="badge badge--false">False</span> | [Alex Jones](../people/alex-jones.md) | 2026-10-22 |
 <!-- /auto:claims -->

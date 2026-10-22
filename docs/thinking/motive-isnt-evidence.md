@@ -32,4 +32,5 @@ Musk. It's not evidence he's a spy. See
 | Item | Result | Said by | Checked |
 |---|---|---|---|
 | [Elon Musk is a Chinese spy, as his Tesla factory in Shanghai shows](../claims/elon-musk-chinese-spy.md) | <span class="badge badge--misleading">Misleading</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-22 |
+| [Apple handed China the keys to Chinese users' iCloud data, Google built a censored search engine for China, and China is testing its social-control tech in Venezuela](../claims/apple-google-china-venezuela.md) | <span class="badge badge--mostly-true">Mostly true</span> | [Alex Jones](../people/alex-jones.md) | 2026-10-22 |
 <!-- /auto:claims -->
