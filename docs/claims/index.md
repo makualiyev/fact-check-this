@@ -25,6 +25,8 @@ in [How this works](../method.md#the-verdict-scale).
 | Item | Result | Said by | Checked |
 |---|---|---|---|
 | [Paul, not Jesus, is the real founder of Christianity](paul-invented-christianity.md) | <span class="badge badge--misleading">Misleading</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-21 |
+| [Elon Musk is a Chinese spy, as his Tesla factory in Shanghai shows](elon-musk-chinese-spy.md) | <span class="badge badge--misleading">Misleading</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-22 |
+| [Factions in the US "deep state" control Dwayne Johnson, who knew about the bin Laden raid 24 hours early](the-rock-controlled-by-deep-state.md) | <span class="badge badge--misleading">Misleading</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-22 |
 
 ## False
 

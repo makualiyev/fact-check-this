@@ -36,4 +36,5 @@ philosopher Karl Popper called this being **unfalsifiable**.
 | Item | Result | Said by | Checked |
 |---|---|---|---|
 | [Paul was a spy, an agent of Rome or a double agent for the Jewish leadership](../claims/paul-was-a-roman-spy.md) | <span class="badge badge--unproven">Unproven</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-21 |
+| [Factions in the US "deep state" control Dwayne Johnson, who knew about the bin Laden raid 24 hours early](../claims/the-rock-controlled-by-deep-state.md) | <span class="badge badge--misleading">Misleading</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-22 |
 <!-- /auto:claims -->

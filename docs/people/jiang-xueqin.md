@@ -35,12 +35,12 @@ Nostradamus." Those predictions are tracked in [Predictions](../predictions/inde
 ## Scorecard
 
 <!-- auto:scorecard -->
-**Claims checked:** 7 · **Predictions tracked:** 3
+**Claims checked:** 9 · **Predictions tracked:** 3
 
 | Verdict | Claims |
 |---|---|
 | <span class="badge badge--mostly-true">Mostly true</span> | 1 |
-| <span class="badge badge--misleading">Misleading</span> | 1 |
+| <span class="badge badge--misleading">Misleading</span> | 3 |
 | <span class="badge badge--false">False</span> | 4 |
 | <span class="badge badge--unproven">Unproven</span> | 1 |
 
@@ -53,6 +53,8 @@ Nostradamus." Those predictions are tracked in [Predictions](../predictions/inde
 | [Paul built Jesus' story on the Dionysus cult, and the Eucharist comes from eating Dionysus](../claims/paul-copied-dionysus.md) | <span class="badge badge--false">False</span> | 2026-10-21 |
 | [Paul was a spy, an agent of Rome or a double agent for the Jewish leadership](../claims/paul-was-a-roman-spy.md) | <span class="badge badge--unproven">Unproven</span> | 2026-10-21 |
 | [Paul had James the Just, the brother of Jesus, killed](../claims/paul-had-james-killed.md) | <span class="badge badge--false">False</span> | 2026-10-21 |
+| [Elon Musk is a Chinese spy, as his Tesla factory in Shanghai shows](../claims/elon-musk-chinese-spy.md) | <span class="badge badge--misleading">Misleading</span> | 2026-10-22 |
+| [Factions in the US "deep state" control Dwayne Johnson, who knew about the bin Laden raid 24 hours early](../claims/the-rock-controlled-by-deep-state.md) | <span class="badge badge--misleading">Misleading</span> | 2026-10-22 |
 
 **Predictions** — Open: 1 · Came true: 2
 

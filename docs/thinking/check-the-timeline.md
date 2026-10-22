@@ -30,4 +30,5 @@ Great Persecution. See [the check](../claims/rome-backed-pauls-christianity.md).
 |---|---|---|---|
 | [Paul's Christianity spread with Rome's support and became the official religion around 300](../claims/rome-backed-pauls-christianity.md) | <span class="badge badge--false">False</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-21 |
 | [Paul had James the Just, the brother of Jesus, killed](../claims/paul-had-james-killed.md) | <span class="badge badge--false">False</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-21 |
+| [Factions in the US "deep state" control Dwayne Johnson, who knew about the bin Laden raid 24 hours early](../claims/the-rock-controlled-by-deep-state.md) | <span class="badge badge--misleading">Misleading</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-22 |
 <!-- /auto:claims -->

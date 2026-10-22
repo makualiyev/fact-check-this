@@ -12,4 +12,5 @@ more likely to be checked, so it is not a random sample.
 <!-- auto:list -->
 - [Alex Jones](alex-jones.md) — American conspiracy broadcaster, founder of InfoWars. Mixes real, documented history with claims that courts have ruled false and defamatory.
 - [Jiang Xueqin ("Professor Jiang")](jiang-xueqin.md) — Canadian educator in Beijing behind the Predictive History YouTube channel. Not a university professor; his degree is in English literature.
+- [Matan Even](matan-even.md) — American comedian and YouTuber whose interview show is built on absurd, provocative questions. A host, not an expert on the topics discussed.
 <!-- /auto:list -->
