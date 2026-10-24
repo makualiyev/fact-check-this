@@ -11,5 +11,6 @@ Background explainers: the context needed to judge claims in an area.
 - [How the Bible was put together](bible-canon.md) — Which books made it into the Jewish and Christian Bibles, when, and why the lists differ.
 - [The Epstein files](epstein-files.md) — What the US government released about Jeffrey Epstein in 2025–26, and how to read a document from it before repeating it.
 - [The first Christians](early-christianity.md) — From a Jewish movement around Jesus to a separate religion. What we know and how we know it.
+- [The languages of the Bible and the Qur'an](languages-of-scripture.md) — Hebrew, Aramaic, Greek and Arabic. Which scriptures were written in which, what the prophets probably spoke, and why the languages are related.
 - [The sources for early Islam](early-islam.md) — What evidence survives from Islam's first century, how late the biographies are, and why historians argue about it.
 <!-- /auto:list -->

@@ -11,6 +11,7 @@ links back to the claims where it mattered.
 - [A motive isn't evidence](motive-isnt-evidence.md) — Having a reason or an exposure to do something isn't evidence that someone did it. Ask for the act, not just the incentive.
 - [A thin record isn't a blank record](thin-record-not-blank.md) — "We know little about X" doesn't mean "we know nothing about X." Ask which facts rest on the weak sources and which have independent support.
 - [Base rates](base-rates.md) — Before being impressed by a correct prediction, ask how likely it was anyway, and whether it could have failed.
+- [Check the "therefore"](check-the-therefore.md) — An argument can fail in its facts or in its logic, and a conclusion can be right for the wrong reasons. Test the premises and the link between them and the conclusion separately.
 - [Check the expertise](check-the-expertise.md) — Who is speaking, and is this their field? Charisma and confidence are not credentials.
 - [Check the timeline](check-the-timeline.md) — Put dates next to every step of a story. Many confident claims collapse when the events can't have happened in that order.
 - [Consensus vs. fringe](consensus-vs-fringe.md) — Find out where experts actually stand before deciding. A minority view isn't automatically wrong, but it needs extra evidence.

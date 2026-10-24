@@ -8,6 +8,7 @@ Channels, playlists, episodes and other places claims come from. Each source
 page lists its claims in timestamp order.
 
 <!-- auto:list -->
+- [Eldar Dzharakhov's interview with Arut](dzharakhov-arut-interview.md) — A long Russian-language YouTube conversation with crypto blogger and rapper Arut about money, music, crypto, faith and success.
 - [Predictive History: Civilization #28, Muhammad's Revolution of God](predictive-history-civilization-28-muhammad.md) — Jiang Xueqin's lecture on the rise of Islam, part of his Civilization series (2024–2025).
 - [Predictive History: Geo-Strategy #8, The Iran Trap](predictive-history-iran-trap.md) — The May 2024 lecture that made Jiang famous, predicting Trump's 2024 win, a US–Iran war, and a US defeat.
 - [Predictive History: Secret History](predictive-history-secret-history.md) — Jiang Xueqin's 28-lecture series (Aug–Dec 2025) on power, religion and secret societies, from the Bronze Age to a "Pax Judaica" finale.
