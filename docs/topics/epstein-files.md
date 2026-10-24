@@ -28,7 +28,7 @@ stamped on each document). Citing one lets anyone find the exact page.
 ## How to read a document from the files
 
 1. **A name in the files isn't an accusation.** The files contain contact lists, flight logs, invitations and emails from people who turned Epstein down. The DOJ and news outlets repeat this caveat for a reason.
-2. **Ask who wrote it.** A large part of the material is Epstein's own: his emails, notes and **drafts, including emails he sent to himself**. These show what Epstein claimed, wanted or planned to say. They aren't findings about what other people did.
+2. **Ask who wrote it.** A large part of the material is Epstein's own: his emails, notes and **drafts, including emails he sent to himself**. These show what Epstein claimed, wanted or planned to say. They aren't findings about what other people did. Example: the 2013 "dear Bill" letter about Gates (EFTA00965766), which Epstein wrote in his adviser's voice and mailed to his own address. See [the check](../claims/gates-syphilis-epstein-party.md).
 3. **Was it sent?** A draft that never left his outbox tells you about Epstein, not about the person it describes.
 4. **Remember what he used people for.** Epstein collected information about powerful people and, by several reports, used it as leverage. A document that damages someone may have been written *to* damage them.
 5. **Go to the page, not the summary.** Most viral claims come from news write-ups, and those from other write-ups. Unofficial "Epstein data" sites and wikis with their own "grades" aren't the DOJ archive.
@@ -42,8 +42,9 @@ stamped on each document). Citing one lets anyone find the exact page.
 
 !!! note "How these sources were checked"
     Located via web search on 2026-10-24. Pages couldn't be opened directly,
-    and justice.gov was unreachable from this environment, so no document
-    was read in the DOJ's own archive. Dates and page counts come from
+    and justice.gov was unreachable from this environment. The only
+    documents read from the DOJ's own archive are the three Gates drafts
+    the owner downloaded (EFTA00965766, EFTA00965773, EFTA01967528). Dates and page counts come from
     search-result summaries of the articles above. The Act's exact signing
     date and the first batch's exact date weren't confirmed, so the table
     gives only the month.
