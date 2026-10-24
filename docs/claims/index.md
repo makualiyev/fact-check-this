@@ -32,6 +32,7 @@ in [How this works](../method.md#the-verdict-scale).
 | [As a teenager George Soros helped the Nazis take Jews' property, and later called it the happiest time of his life](soros-helped-nazis.md) | <span class="badge badge--misleading">Misleading</span> | [Alex Jones](../people/alex-jones.md) | 2026-10-22 |
 | [The US government injected over a million people with live syphilis "in the name of vaccines," from 1947 to 1983](us-infected-million-with-syphilis.md) | <span class="badge badge--misleading">Misleading</span> | [Alex Jones](../people/alex-jones.md) | 2026-10-22 |
 | [Eisenhower's farewell address warned about a "technological elite" because he had rejected NASA's plan for a breakaway civilization](eisenhower-technological-elite-nasa.md) | <span class="badge badge--misleading">Misleading</span> | [Alex Jones](../people/alex-jones.md) | 2026-10-22 |
+| [Bill Gates was infected with syphilis at one of Jeffrey Epstein's parties](gates-syphilis-epstein-party.md) | <span class="badge badge--misleading">Misleading</span> | [Sergey Minaev](../people/sergey-minaev.md) | 2026-10-24 |
 
 ## False
 

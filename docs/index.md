@@ -21,9 +21,9 @@ how likely I thought the claim was, so the [Calibration](calibration.md) page
 can show how often podcasts actually fool me.
 
 <!-- auto:stats -->
-**18 claims checked** · **3 predictions tracked**
+**19 claims checked** · **3 predictions tracked**
 
-<span class="badge badge--true">True</span> 1 <span class="badge badge--mostly-true">Mostly true</span> 2 <span class="badge badge--misleading">Misleading</span> 7 <span class="badge badge--false">False</span> 7 <span class="badge badge--unproven">Unproven</span> 1
+<span class="badge badge--true">True</span> 1 <span class="badge badge--mostly-true">Mostly true</span> 2 <span class="badge badge--misleading">Misleading</span> 8 <span class="badge badge--false">False</span> 7 <span class="badge badge--unproven">Unproven</span> 1
 <!-- /auto:stats -->
 
 ## Latest checks
@@ -31,11 +31,11 @@ can show how often podcasts actually fool me.
 <!-- auto:latest -->
 | Checked | Item | Result |
 |---|---|---|
+| 2026-10-24 | [Bill Gates was infected with syphilis at one of Jeffrey Epstein's parties](claims/gates-syphilis-epstein-party.md) | <span class="badge badge--misleading">Misleading</span> |
 | 2026-10-22 | [Eisenhower's farewell address warned about a "technological elite" because he had rejected NASA's plan for a breakaway civilization](claims/eisenhower-technological-elite-nasa.md) | <span class="badge badge--misleading">Misleading</span> |
 | 2026-10-22 | [The US government injected over a million people with live syphilis "in the name of vaccines," from 1947 to 1983](claims/us-infected-million-with-syphilis.md) | <span class="badge badge--misleading">Misleading</span> |
 | 2026-10-22 | [As a teenager George Soros helped the Nazis take Jews' property, and later called it the happiest time of his life](claims/soros-helped-nazis.md) | <span class="badge badge--misleading">Misleading</span> |
 | 2026-10-22 | [Operation Paperclip brought about 34,000 Nazis to the US, a figure released by the Church Committee](claims/paperclip-34000-nazis.md) | <span class="badge badge--false">False</span> |
-| 2026-10-22 | [Virginia's governor admitted that babies are kept alive after birth and then killed, so their organs can be sold](claims/northam-babies-kept-alive-for-organs.md) | <span class="badge badge--false">False</span> |
 <!-- /auto:latest -->
 
 ## Where to go

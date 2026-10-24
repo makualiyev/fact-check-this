@@ -21,5 +21,6 @@ links back to the claims where it mattered.
 - [Secret framing](secret-framing.md) — "Hidden history" packaging makes ordinary textbook facts feel like revelations, and lends that glow to whatever follows.
 - [Start with the earliest source](earliest-source-first.md) — Before accepting a new story about the past, find the oldest account. A late source, or a modern guess, has to explain why it knows better.
 - [Theories that can't lose](theories-that-cant-lose.md) — If every possible piece of evidence confirms a theory, it isn't explaining anything. Also check whether the "mysteries" it solves are really open.
+- [Watch the story change as it's retold](how-rumors-grow.md) — Retelling drops caveats, sharpens details and bends a story to fit what people expect. Line up the versions and see what was lost and what was added.
 - [What's the denominator?](what-is-the-denominator.md) — A percentage means nothing until you know what it's a percentage of.
 <!-- /auto:list -->

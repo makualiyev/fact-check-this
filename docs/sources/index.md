@@ -14,4 +14,5 @@ page lists its claims in timestamp order.
 - [Predictive History: Secret History #23, The Organization of Evil](predictive-history-secret-history-23.md) — Jiang's lecture on Paul and the rise of the Church, which he presents as a Roman project to "imprison the divine spark" (Dec 2025).
 - [The Joe Rogan Experience #1255: Alex Jones Returns!](jre-1255-alex-jones-returns.md) — Feb 2019, a roughly 4h40m episode with Alex Jones (Eddie Bravo joins later). Among the most-listened podcast episodes of 2019.
 - [The Matan Show: Matan Confronts Professor Jiang For Being a Chinese Spy](matan-show-professor-jiang.md) — A comedy interview in which Matan Even plays at "exposing" Jiang, and Jiang names celebrities he says are controlled by China or the US "deep state."
+- [МИНАЕВ LIVE: World Government, the Myth-Free Version (History Lessons)](minaev-live-world-government.md) — Sergey Minaev's hour-long Russian-language episode on Epstein, Davos and the "world government" (2026).
 <!-- /auto:list -->

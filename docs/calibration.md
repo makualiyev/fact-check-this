@@ -9,10 +9,11 @@ where I wrote down a prior before reading the verdict.
 [How the scores work](method.md#your-prior-and-calibration).
 
 <!-- auto:calibration -->
-**Priors recorded:** 14 · **Scorable:** 13 · **Brier score:** 0.283 · **Leaned the right way:** 5/11 (45%)
+**Priors recorded:** 15 · **Scorable:** 14 · **Brier score:** 0.264 · **Leaned the right way:** 6/12 (50%)
 
 | Item | My prior | Outcome | Score |
 |---|---|---|---|
+| [Bill Gates was infected with syphilis at one of Jeffrey Epstein's parties](claims/gates-syphilis-epstein-party.md) | 10% | <span class="badge badge--misleading">Misleading</span> | 0.01 |
 | [The US government injected over a million people with live syphilis "in the name of vaccines," from 1947 to 1983](claims/us-infected-million-with-syphilis.md) | 90% | <span class="badge badge--misleading">Misleading</span> | 0.81 |
 | [As a teenager George Soros helped the Nazis take Jews' property, and later called it the happiest time of his life](claims/soros-helped-nazis.md) | 50% | <span class="badge badge--misleading">Misleading</span> | 0.25 |
 | [Virginia's governor admitted that babies are kept alive after birth and then killed, so their organs can be sold](claims/northam-babies-kept-alive-for-organs.md) | 50% | <span class="badge badge--false">False</span> | 0.25 |

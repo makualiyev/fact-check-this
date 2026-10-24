@@ -28,4 +28,5 @@ about 93 CE) names the high priest Ananus. See
 | Item | Result | Said by | Checked |
 |---|---|---|---|
 | [Paul had James the Just, the brother of Jesus, killed](../claims/paul-had-james-killed.md) | <span class="badge badge--false">False</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-21 |
+| [Bill Gates was infected with syphilis at one of Jeffrey Epstein's parties](../claims/gates-syphilis-epstein-party.md) | <span class="badge badge--misleading">Misleading</span> | [Sergey Minaev](../people/sergey-minaev.md) | 2026-10-24 |
 <!-- /auto:claims -->
