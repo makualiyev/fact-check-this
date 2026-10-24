@@ -1,7 +1,7 @@
 ---
 type: claim
 title: Bill Gates was infected with syphilis at one of Jeffrey Epstein's parties
-summary: The remark garbles a real document. In 2013 Epstein wrote himself drafts, in the voice of Gates's adviser, mentioning "your std" and antibiotics for Melinda. They name no disease and no party, nothing corroborates them, and Gates calls them false. Retelling turned them into a "fact" with extra detail.
+summary: The remark garbles real documents. In 2013 Epstein wrote himself drafts, in the voice of Gates's adviser, mentioning "your std", antibiotics for Melinda and "sex with russian girls". They name no disease and no party, nothing corroborates them, and Gates calls them false. Retelling turned them into a "fact" with extra detail.
 speaker: sergey-minaev
 source: minaev-live-world-government
 timestamp: "2:50"
@@ -11,7 +11,7 @@ confidence: high
 prior: 10
 topics: [epstein-files]
 thinking: [how-rumors-grow, earliest-source-first]
-date_checked: 2026-10-24 08:26
+date_checked: 2026-10-24 09:04
 ---
 
 # Bill Gates was infected with syphilis at one of Jeffrey Epstein's parties
@@ -20,7 +20,7 @@ date_checked: 2026-10-24 08:26
 <div class="verdict-card verdict-card--misleading" markdown>
 <span class="verdict-card__label">Misleading</span>
 
-**The remark garbles a real document. In 2013 Epstein wrote himself drafts, in the voice of Gates's adviser, mentioning "your std" and antibiotics for Melinda. They name no disease and no party, nothing corroborates them, and Gates calls them false. Retelling turned them into a "fact" with extra detail.**
+**The remark garbles real documents. In 2013 Epstein wrote himself drafts, in the voice of Gates's adviser, mentioning "your std", antibiotics for Melinda and "sex with russian girls". They name no disease and no party, nothing corroborates them, and Gates calls them false. Retelling turned them into a "fact" with extra detail.**
 
 **Said by** [Sergey Minaev](../people/sergey-minaev.md) **in** [МИНАЕВ LIVE: World Government, the Myth-Free Version (History Lessons)](../sources/minaev-live-world-government.md) at 2:50
 
@@ -75,8 +75,8 @@ allegation from the files isn't outlandish.
 **There's a real document behind it, but the line says much more than the
 document does.**
 
-- **True:** on 18 July 2013 Epstein wrote himself a letter in the voice of Gates's science adviser Boris Nikolic. It refers to "your std" and to Gates asking for "antibiotics that you can surreptitiously give to Melinda". A separate draft, as reported, mentions drugs "to deal with consequences of sex with Russian girls".
-- **Not in the source:** I read three versions of the letter from the Justice Department's own library. None names a disease (no syphilis), and nothing places anything at Epstein's parties or island.
+- **True:** on 18 July 2013 Epstein wrote himself a letter in the voice of Gates's science adviser Boris Nikolic. It refers to "your std" and to Gates asking for "antibiotics that you can surreptitiously give to Melinda". A companion draft, a resignation letter in Nikolic's name, mentions "helping Bill to get drugs, in order to deal with consequences of sex with russian girls".
+- **Not in the source:** I read every version of both drafts that was supplied, straight from the Justice Department's own library. None names a disease, and nothing places anything at Epstein's parties or island. A search of the library for "syphilis" found nothing related.
 - **Not established:** every version is addressed to Epstein himself, no one has corroborated it, and Gates calls it "absolutely absurd and completely false".
 
 Turning that into "the fact that Gates was infected with syphilis at one of
@@ -123,13 +123,47 @@ What reading the original shows:
 - **It's being composed, not recorded.** Over about two hours the text grows: the eye operation, "with tears in your eyes" and the divorce paragraph are added in later versions. It's a letter being written and polished, not a log of events.
 - **Its shape is grievance, price, consequences.** It lists what "Boris" is owed, then what a public divorce would cost. That reads like the draft of a pressure letter. Whether Epstein meant Nikolic to send it, or kept it as leverage of his own, the documents don't say. That part is my interpretation.
 
-**The "Russian girls" line is from a different draft.** Press reports quote
-a second Epstein draft, framed as Nikolic's resignation letter: "From
-helping Bill to get drugs, in order to deal with consequences of sex with
-Russian girls, to facilitating his illicit trysts with married women, to
-being asked to provide Adderall for bridge tournaments…" I haven't read it
-in the original, and outlets transcribe its typos differently. As quoted,
-it doesn't name a disease either.
+### The second draft: a resignation letter
+
+The "Russian girls" line comes from a different draft. It's a resignation
+letter in Nikolic's name, also from Epstein's address to itself. It opens:
+"I have decided to resign my position effective immediately with BG3 and
+the Bill and Melinda Gates Foundation", and says he has been "caught up in
+a severe marital dispute between Melinda and Bill". Then, in the first
+version (EFTA00965059, typos as in the original):
+
+> "From helping Bill to get drugs, in order to deal with consequences of
+> sex with russian girls , to facilictating his illicit trysts, with
+> married women, to being asked to provide adderall fro bridge toumamnts.
+> as I am a medical doctor, but have no presriptions writing abiltiy"
+
+The last version (EFTA00965784) softens the tone. "Two years severance pay"
+becomes "a geneorus package", the line about prescriptions goes, and it
+ends with a plan to "admit a temp moral failure, and to ask thier
+forgiveness". Like the letter, it names no disease and no place.
+
+### How the two drafts fit together
+
+All times are UTC. The first save was the evening of 17 July in New York.
+
+| Time | Document | Draft |
+|---|---|---|
+| 01:03 | EFTA00965059 (also EFTA01965732) | Resignation letter, first version |
+| 11:49 | EFTA00965766 | "dear bill" letter, first version (subject "bill") |
+| 11:52 | EFTA00965770 (also EFTA01966772) | Resignation letter forwarded to himself again |
+| 12:55 | EFTA00965773 | "dear Bill" letter, longer |
+| 13:33 | EFTA01967528 | "dear Bill" letter, longest, with the divorce paragraph |
+| 13:37 | EFTA00965784 | Resignation letter, revised and softened |
+
+Epstein worked on the two side by side for a day. One was a **public**
+letter: a resignation addressed to "friends and future colleagues" that
+would expose Gates's private life. The other was a **private** letter to
+Gates: the grievances, the price, and a warning about a public divorce.
+Read together, they look like a package: what could be published, and what
+it would cost to stop it. That's my interpretation; the documents don't say
+what Epstein meant to do with them, and no version sent to anyone has been
+reported. It fits the Wall Street Journal's account of Epstein later using
+Gates's private life as leverage.
 
 ### What's established around it
 
@@ -173,18 +207,18 @@ It isn't plain **Unproven** either, because the problem isn't just missing
 evidence: the listener comes away believing something the record doesn't
 say.
 
-**Confidence: high.** Three versions of the main draft have now been read
-straight from the Justice Department's library, and none names a disease or
-a party. The second, "Russian girls" draft is known only from press quotes,
-which don't name a disease either. If any document in the files does say
-"syphilis", this page needs updating.
+**Confidence: high.** Both drafts have been read straight from the
+Justice Department's library, in all versions supplied. Neither names a
+disease or a party. A library search for "syphilis" found nothing related.
 
 ## Sources
 
 **The drafts (primary)**
 
-- US Department of Justice, [Epstein Library](https://www.justice.gov/epstein): **EFTA00965766** and **EFTA00965773** (Data Set 9) and **EFTA01967528** (Data Set 10), the "dear Bill" drafts of 18 July 2013. Search the library for the number, or for "your std".
-- NewsNation, [Jeffrey Epstein files: What do the documents say about Bill Gates?](https://www.newsnationnow.com/crime/epstein-files-bill-gates-affairs-illicit-trysts-cover-up/) (quotes the second, resignation-letter draft with "Russian girls").
+- US Department of Justice, [Epstein Library](https://www.justice.gov/epstein). Search it for a document number:
+    - **"dear Bill" letter:** EFTA00965766 and EFTA00965773 (Data Set 9), and EFTA01967528 (Data Set 10).
+    - **Resignation letter:** EFTA00965059, EFTA00965770 and EFTA00965784 (Data Set 9). Copies of the same messages are in Data Set 10 as EFTA01965732 and EFTA01966772.
+- NewsNation, [Jeffrey Epstein files: What do the documents say about Bill Gates?](https://www.newsnationnow.com/crime/epstein-files-bill-gates-affairs-illicit-trysts-cover-up/) (press summary of both drafts).
 
 **The press coverage and the denial**
 
@@ -213,16 +247,14 @@ which don't name a disease either. If any document in the files does say
 
 !!! note "How these sources were checked"
     Minaev's words come from the owner-provided YouTube transcript (with
-    timestamps); the translation is mine. **The three "dear Bill" drafts
-    were read in full**: the owner downloaded the PDFs from the DOJ's
-    Epstein Library on 2026-10-24 (justice.gov was unreachable from this
-    environment), and their text was extracted and read. The other 9 of the
-    12 "your std" search results weren't read. The second draft ("Russian
-    girls", Adderall) wasn't read in the original; its wording is as quoted
-    by NewsNation and others. Everything else was located via web search
-    on 2026-10-24 from search-result summaries, because pages couldn't be
-    opened directly. The claim that no source names syphilis rests on the
-    drafts read and on searches in English and Russian. The episode title and
+    timestamps); the translation is mine. **Both drafts were read in
+    full**: the owner downloaded eight PDFs from the DOJ's Epstein Library
+    on 2026-10-24 (justice.gov was unreachable from this environment), and
+    their text was extracted and read. The other 9 of the 12 "your std"
+    search results weren't read. The owner also searched the library for
+    "syphilis" and found nothing related. Everything else was located via
+    web search on 2026-10-24 from search-result summaries, because pages
+    couldn't be opened directly. The episode title and
     channel come from YouTube's public oEmbed data. Wall Street Journal
     and New York Times reporting is known here only through the outlets
     that summarised it.
