@@ -9,14 +9,13 @@ summary: Professor of religious studies at the University of North Carolina Wilm
 ## Who she is
 
 - Professor in the Department of Philosophy and Religion at the University
-  of North Carolina Wilmington (UNCW), and a former chair of it. Her UNCW
+  of North Carolina Wilmington (UNCW), and its chair from 2015 to 2019. Her UNCW
   profile now lists her as **Diana Heath** (formerly Walsh Pasulka). She
   publishes as D. W. Pasulka.
-- Trained in religious studies, with a PhD from Syracuse University. Her
-  first book, *Heaven Can Wait* (Oxford University Press, 2014), is on the
-  history of the Catholic idea of purgatory. She has worked in Vatican
-  archives, including on the records of the 17th-century saint Joseph of
-  Copertino.
+- Her first book, *Heaven Can Wait* (Oxford University Press, 2014), is on
+  the history of the Catholic idea of purgatory. She has done research in
+  the Vatican archives, which she describes on
+  [JRE #2091](../sources/jre-2091-diana-walsh-pasulka.md).
 - Best known for **_American Cosmic: UFOs, Religion, Technology_** (Oxford
   University Press, 2019), an ethnographic study of scientists and tech
   people who believe in extraterrestrial contact, and its follow-up
@@ -42,6 +41,6 @@ _Nothing checked yet._
 ## Sources
 
 - UNCW, [faculty profile: Diana Pasulka](https://uncw.edu/profiles/p/pasulkad): position, department, name change, research focus.
-- Wikipedia, [Diana Walsh Pasulka](https://en.wikipedia.org/wiki/Diana_Walsh_Pasulka): books and career. A starting point.
+- Wikipedia, [Diana Walsh Pasulka](https://en.wikipedia.org/wiki/Diana_Walsh_Pasulka): books, department chair 2015–2019. A starting point.
 - *Publishers Weekly*, [review of *American Cosmic*](https://www.publishersweekly.com/9780190692889) (2019).
-- New Books Network, [interview on *American Cosmic*](https://newbooksnetwork.com/diana-pasulka-american-cosmic-ufos-religion-technology-oxford-up-2019/) (2019): describes her as department chair.
+- New Books Network, [interview on *American Cosmic*](https://newbooksnetwork.com/diana-pasulka-american-cosmic-ufos-religion-technology-oxford-up-2019/) (2019).

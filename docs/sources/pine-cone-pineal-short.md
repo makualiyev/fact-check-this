@@ -21,8 +21,8 @@ probably the channel that made the edit. One image in the montage has its
 own "FACEBOOK | ANCIENT ARMENOIDS" watermark, so at least some of the
 pictures were taken from social-media posts rather than from museums.
 
-The owner saw this clip first and provided a downloaded copy. What the
-images in it actually show is checked in
+The owner saw this clip first and provided a downloaded copy. Stills from
+it, with what each image actually shows, are on
 [the claim page](../claims/pine-cone-symbolizes-pineal-gland.md#what-the-images-in-the-short-actually-show).
 
 ## Claims from this source
