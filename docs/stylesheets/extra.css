@@ -97,3 +97,37 @@
   clip: rect(0 0 0 0);
   white-space: nowrap;
 }
+
+/* Stills from a video under review, shown as a captioned grid on claim
+   pages (`<div class="stills" markdown>` of `<figure>`s). */
+.md-typeset .stills {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(9rem, 1fr));
+  gap: 1rem;
+  margin: 1em 0;
+}
+
+.md-typeset .stills figure {
+  margin: 0;
+  align-items: flex-start;
+}
+
+.md-typeset .stills img {
+  width: 100%;
+  border-radius: 0.3rem;
+}
+
+.md-typeset .stills figcaption {
+  max-width: none;
+  margin: 0.5em 0 0;
+  font-size: 0.75rem;
+  font-style: normal;
+  text-align: left;
+}
+
+@media screen and (max-width: 30em) {
+  .md-typeset .stills {
+    grid-template-columns: 1fr 1fr;
+    gap: 0.6rem;
+  }
+}

@@ -51,10 +51,18 @@ for someone who wants to **understand**, not just get a verdict.
 7. **Teach one habit.** End with a thinking lesson. Link an existing
    `docs/thinking/` page, or create a new one when a genuinely new
    pattern shows up.
-8. **Be honest about how you checked.** Pages couldn't always be opened
-   directly in this environment (web search worked, fetching didn't). Each
-   page ends with a "How these sources were checked" note saying what was
-   actually done.
+8. **Read the sources, and be honest about how you checked.** Since
+   2026-10-26 the cloud environment has full network access, so open and
+   read the key sources rather than relying on search-result summaries
+   (summaries have been wrong). If the WebFetch tool fails with
+   `ENOTFOUND`, fetch with `curl` (it goes through the proxy) and extract
+   the text; `pdftotext` handles PDFs. Some sites block automated requests
+   (403, 429, captcha pages: Britannica, SAGE, PMC, the Met). Don't try to
+   get around that. Use another copy (publisher page, nature.com, PubMed)
+   or say it wasn't read. Each page ends with a "How these sources were
+   checked" note listing what was read in full and what was seen only in
+   search results. Pages checked before 2026-10-26 say they couldn't be
+   opened; that was true then.
 
 ## Page schema
 
@@ -87,6 +95,27 @@ Watch out for these:
     `Sources`, `Thinking lesson`;
   - predictions: `The prediction`, `How we'll judge it`, `Resolution`,
     `Sources`.
+
+## Images
+
+When a claim comes with a video, stills from it can go on the claim page,
+captioned with what each image actually is (see the pine-cone claim).
+
+- Put them in `docs/assets/claims/<claim-slug>/` as numbered, descriptive
+  names (`01-francis-staff.jpg`).
+- Keep them small: about 360 px wide, JPEG, under ~80 KB each. They're
+  there to comment on the clip, not to reproduce it, so use only the
+  frames being discussed and say whose they are.
+- Lay them out with the `stills` grid:
+  ```html
+  <div class="stills" markdown>
+  <figure markdown="span">
+  ![What the image shows](../assets/claims/<slug>/01-name.jpg){ loading=lazy }
+  <figcaption markdown>**0:02 · Label.** What it actually is.</figcaption>
+  </figure>
+  </div>
+  ```
+- Extract frames with `ffmpeg -ss <seconds> -i <video> -frames:v 1 -vf scale=360:-2 -q:v 5 out.jpg`.
 
 ## Style
 
