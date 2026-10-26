@@ -9,10 +9,11 @@ where I wrote down a prior before reading the verdict.
 [How the scores work](method.md#your-prior-and-calibration).
 
 <!-- auto:calibration -->
-**Priors recorded:** 16 · **Scorable:** 15 · **Brier score:** 0.289 · **Leaned the right way:** 6/13 (46%)
+**Priors recorded:** 17 · **Scorable:** 16 · **Brier score:** 0.306 · **Leaned the right way:** 6/14 (43%)
 
 | Item | My prior | Outcome | Score |
 |---|---|---|---|
+| [The pine cone in ancient religious art, at the Vatican and on the pope's staff represents the pineal gland, where DMT is made](claims/pine-cone-symbolizes-pineal-gland.md) | 75% | <span class="badge badge--misleading">Misleading</span> | 0.56 |
 | [Moses, Jesus and Muhammad all spoke Aramaic, in which God is "Allah", so all three preached the same God](claims/moses-jesus-muhammad-spoke-aramaic.md) | 80% | <span class="badge badge--misleading">Misleading</span> | 0.64 |
 | [Bill Gates was infected with syphilis at one of Jeffrey Epstein's parties](claims/gates-syphilis-epstein-party.md) | 10% | <span class="badge badge--misleading">Misleading</span> | 0.01 |
 | [The US government injected over a million people with live syphilis "in the name of vaccines," from 1947 to 1983](claims/us-infected-million-with-syphilis.md) | 90% | <span class="badge badge--misleading">Misleading</span> | 0.81 |
@@ -30,5 +31,5 @@ where I wrote down a prior before reading the verdict.
 | [Paul's Christianity spread with Rome's support and became the official religion around 300](claims/rome-backed-pauls-christianity.md) | 60% | <span class="badge badge--false">False</span> | 0.36 |
 | [We don't even know for sure that the prophet's name was Muhammad](claims/muhammad-real-name-unknown.md) | 70% | <span class="badge badge--false">False</span> | 0.49 |
 
-**Fooled me** (I was ≥70% sure, it didn't hold up): [Moses, Jesus and Muhammad all spoke Aramaic, in which God is "Allah", so all three preached the same God](claims/moses-jesus-muhammad-spoke-aramaic.md), [The US government injected over a million people with live syphilis "in the name of vaccines," from 1947 to 1983](claims/us-infected-million-with-syphilis.md), [In the 1960s the US set off more than 100 hydrogen bombs in the upper atmosphere to see if it could ignite it](claims/starfish-prime-ignite-atmosphere.md), [We don't even know for sure that the prophet's name was Muhammad](claims/muhammad-real-name-unknown.md)
+**Fooled me** (I was ≥70% sure, it didn't hold up): [The pine cone in ancient religious art, at the Vatican and on the pope's staff represents the pineal gland, where DMT is made](claims/pine-cone-symbolizes-pineal-gland.md), [Moses, Jesus and Muhammad all spoke Aramaic, in which God is "Allah", so all three preached the same God](claims/moses-jesus-muhammad-spoke-aramaic.md), [The US government injected over a million people with live syphilis "in the name of vaccines," from 1947 to 1983](claims/us-infected-million-with-syphilis.md), [In the 1960s the US set off more than 100 hydrogen bombs in the upper atmosphere to see if it could ignite it](claims/starfish-prime-ignite-atmosphere.md), [We don't even know for sure that the prophet's name was Muhammad](claims/muhammad-real-name-unknown.md)
 <!-- /auto:calibration -->

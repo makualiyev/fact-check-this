@@ -34,6 +34,7 @@ in [How this works](../method.md#the-verdict-scale).
 | [Eisenhower's farewell address warned about a "technological elite" because he had rejected NASA's plan for a breakaway civilization](eisenhower-technological-elite-nasa.md) | <span class="badge badge--misleading">Misleading</span> | [Alex Jones](../people/alex-jones.md) | 2026-10-22 |
 | [Bill Gates was infected with syphilis at one of Jeffrey Epstein's parties](gates-syphilis-epstein-party.md) | <span class="badge badge--misleading">Misleading</span> | [Sergey Minaev](../people/sergey-minaev.md) | 2026-10-24 |
 | [Moses, Jesus and Muhammad all spoke Aramaic, in which God is "Allah", so all three preached the same God](moses-jesus-muhammad-spoke-aramaic.md) | <span class="badge badge--misleading">Misleading</span> | [Arut Nazaryan ("Arut")](../people/arut-nazaryan.md) | 2026-10-24 |
+| [The pine cone in ancient religious art, at the Vatican and on the pope's staff represents the pineal gland, where DMT is made](pine-cone-symbolizes-pineal-gland.md) | <span class="badge badge--misleading">Misleading</span> | [Joe Rogan](../people/joe-rogan.md) | 2026-10-26 |
 
 ## False
 

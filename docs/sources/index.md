@@ -14,6 +14,8 @@ page lists its claims in timestamp order.
 - [Predictive History: Secret History](predictive-history-secret-history.md) — Jiang Xueqin's 28-lecture series (Aug–Dec 2025) on power, religion and secret societies, from the Bronze Age to a "Pax Judaica" finale.
 - [Predictive History: Secret History #23, The Organization of Evil](predictive-history-secret-history-23.md) — Jiang's lecture on Paul and the rise of the Church, which he presents as a Roman project to "imprison the divine spark" (Dec 2025).
 - [The Joe Rogan Experience #1255: Alex Jones Returns!](jre-1255-alex-jones-returns.md) — Feb 2019, a roughly 4h40m episode with Alex Jones (Eddie Bravo joins later). Among the most-listened podcast episodes of 2019.
+- [The Joe Rogan Experience #2091: Diana Walsh Pasulka](jre-2091-diana-walsh-pasulka.md) — January 2024, about 2h17m. Joe Rogan talks with the religious-studies professor Diana Walsh Pasulka about UFOs, religion, psychedelics and her visits to the Vatican.
 - [The Matan Show: Matan Confronts Professor Jiang For Being a Chinese Spy](matan-show-professor-jiang.md) — A comedy interview in which Matan Even plays at "exposing" Jiang, and Jiang names celebrities he says are controlled by China or the US "deep state."
+- [YouTube Short: "Bizarre detail reveals ancient connection between religions"](pine-cone-pineal-short.md) — A 34-second clip of Joe Rogan from JRE
 - [МИНАЕВ LIVE: World Government, the Myth-Free Version (History Lessons)](minaev-live-world-government.md) — Sergey Minaev's hour-long Russian-language episode on Epstein, Davos and the "world government" (2026).
 <!-- /auto:list -->

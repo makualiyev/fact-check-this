@@ -30,4 +30,5 @@ eaten in a meal that became the Eucharist." See [the check](../claims/paul-copie
 | Item | Result | Said by | Checked |
 |---|---|---|---|
 | [Paul built Jesus' story on the Dionysus cult, and the Eucharist comes from eating Dionysus](../claims/paul-copied-dionysus.md) | <span class="badge badge--false">False</span> | [Jiang Xueqin ("Professor Jiang")](../people/jiang-xueqin.md) | 2026-10-21 |
+| [The pine cone in ancient religious art, at the Vatican and on the pope's staff represents the pineal gland, where DMT is made](../claims/pine-cone-symbolizes-pineal-gland.md) | <span class="badge badge--misleading">Misleading</span> | [Joe Rogan](../people/joe-rogan.md) | 2026-10-26 |
 <!-- /auto:claims -->

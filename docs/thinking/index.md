@@ -14,6 +14,7 @@ links back to the claims where it mattered.
 - [Check the "therefore"](check-the-therefore.md) — An argument can fail in its facts or in its logic, and a conclusion can be right for the wrong reasons. Test the premises and the link between them and the conclusion separately.
 - [Check the expertise](check-the-expertise.md) — Who is speaking, and is this their field? Charisma and confidence are not credentials.
 - [Check the timeline](check-the-timeline.md) — Put dates next to every step of a story. Many confident claims collapse when the events can't have happened in that order.
+- [Check what the pictures show](check-the-pictures.md) — In edited clips, images flash by in time with the words and feel like evidence. Pause, and ask of each one what it is, where it's from, and whether it shows what the voice says.
 - [Consensus vs. fringe](consensus-vs-fringe.md) — Find out where experts actually stand before deciding. A minority view isn't automatically wrong, but it needs extra evidence.
 - [Credibility transfer](credibility-transfer.md) — A speaker who is right about one surprising thing borrows credibility for the next. Judge each claim on its own.
 - [Kernel of truth](kernel-of-truth.md) — Most misleading claims grow from something real. Find the kernel, then measure how far the claim stretches it.
